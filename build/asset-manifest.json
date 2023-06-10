@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1de2f061.css",
+    "main.js": "/static/js/main.3f0499dd.js",
+    "static/media/plainlogo.png": "/static/media/plainlogo.c1b3e26881ae395a1cda.png",
+    "static/media/airplane.jpg": "/static/media/airplane.d56e1563eae804db921e.jpg",
+    "index.html": "/index.html",
+    "main.1de2f061.css.map": "/static/css/main.1de2f061.css.map",
+    "main.3f0499dd.js.map": "/static/js/main.3f0499dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de2f061.css",
+    "static/js/main.3f0499dd.js"
+  ]
+}
