@@ -3,7 +3,7 @@ import FlightSearch from './components/FlightSearch';
 import About from './components/About';
 import './App.css';
 import { Routes,Route } from 'react-router-dom';
-
+ 
 function App() {
   return (
     <>
